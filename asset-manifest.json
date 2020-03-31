@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DeJourn/static/css/main.7de788c4.chunk.css",
+    "main.js": "/DeJourn/static/js/main.498fdad8.chunk.js",
+    "main.js.map": "/DeJourn/static/js/main.498fdad8.chunk.js.map",
+    "runtime-main.js": "/DeJourn/static/js/runtime-main.caeaa000.js",
+    "runtime-main.js.map": "/DeJourn/static/js/runtime-main.caeaa000.js.map",
+    "static/js/2.9e1e68e3.chunk.js": "/DeJourn/static/js/2.9e1e68e3.chunk.js",
+    "static/js/2.9e1e68e3.chunk.js.map": "/DeJourn/static/js/2.9e1e68e3.chunk.js.map",
+    "index.html": "/DeJourn/index.html",
+    "precache-manifest.18dc2b6fcaa8a16eb2e329334224d4b9.js": "/DeJourn/precache-manifest.18dc2b6fcaa8a16eb2e329334224d4b9.js",
+    "service-worker.js": "/DeJourn/service-worker.js",
+    "static/css/main.7de788c4.chunk.css.map": "/DeJourn/static/css/main.7de788c4.chunk.css.map",
+    "static/js/2.9e1e68e3.chunk.js.LICENSE.txt": "/DeJourn/static/js/2.9e1e68e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caeaa000.js",
+    "static/js/2.9e1e68e3.chunk.js",
+    "static/css/main.7de788c4.chunk.css",
+    "static/js/main.498fdad8.chunk.js"
+  ]
+}
